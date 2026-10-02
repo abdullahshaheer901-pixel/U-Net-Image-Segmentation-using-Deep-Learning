@@ -43,7 +43,7 @@ The project includes:
 - Image preprocessing and segmentation workflow
 - Model training using TensorFlow/Keras
 - Segmentation mask visualization
-- Jupyter Notebook implementation
+- Google Colabs implementation
 
 It is intended both as a learning resource and as a portfolio project demonstrating practical **Deep Learning** and **Computer Vision** concepts.
 
